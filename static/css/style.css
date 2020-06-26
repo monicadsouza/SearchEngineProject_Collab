@@ -1,0 +1,36 @@
+#urllist {
+    color: #969696;
+    list-style-type: none;
+    /*border: 1px solid #dcdcdc;*/
+    /*border-radius: 3px;*/
+}
+
+#responsesize {
+    margin-top: 10px;
+}
+
+#logo {
+    margin-top: 15%;
+}
+
+.logo-sm {
+    width: 50px;
+    height: 50px;
+}
+
+ul li p a {
+    font-style: italic;
+    color: #ff0066;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #bc0b42;
+    border-color: brown;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active:hover {
+    color: #ffffff;
+    background-color: #4b0902;
+    border-color: brown;
+}

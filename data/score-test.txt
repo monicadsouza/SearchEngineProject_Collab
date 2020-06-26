@@ -1,0 +1,56 @@
+*PAGE:http://itu.dk
+IT-Universitetet i København
+itu
+itu
+itu
+itu
+university
+university
+university
+university
+denmark
+denmark
+denmark
+denmark
+denmark
+*PAGE:http://danishuniversity.dk
+Danish University
+itu
+ku
+dtu
+university
+university
+university
+university
+denmark
+denmark
+denmark
+health
+*PAGE:http://ku.dk
+Københavns Universitet
+ku
+ku
+university
+university
+denmark
+denmark
+health
+*PAGE:http://dtu.dk
+Danmarks Tekniske Universitet
+dtu
+dtu
+denmark
+denmark
+*PAGE:http://healthcare.dk
+Government
+denmark
+health
+health
+health
+health
+health
+*PAGE:http://europe.dk
+denmark
+denmark
+health
+

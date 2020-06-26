@@ -1,0 +1,16 @@
+*PAGE:http://page1.com
+title1
+word1
+word2
+*PAGE:http://page2.com
+title2
+word1
+word3
+*PAGE:http://page3.com
+title3
+word1
+word2
+word3
+*PAGE:http://page4.com
+title4
+word4
