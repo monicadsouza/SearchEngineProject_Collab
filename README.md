@@ -9,6 +9,5 @@ To build and run the project, please see the HOWTO.txt file.
 
 ## Authors
 
-* **Alice Liddell**
-* **Bob Ross**
-* ...
+* **Monica Souza**
+* **et. al.**
